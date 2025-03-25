@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['playground.py'],
-             pathex=['C:\\Users\\weiyi\\Desktop'],
+             pathex=['C:\\Users\\weiyi\\Desktop\\llm-playground'],
              binaries=[],
              datas=[],
              hiddenimports=[],
